@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **giyasovabdullo0@gmail.com**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdullokh1&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abdullokh1&theme=gotham&show_icons=true)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullokh1&show_icons=true&locale=en&layout=compact" alt="abdullokh1" /></p>
 <br><br><br><br><br><br>
 <h3 align="left">Languages and Tools:</h3>
